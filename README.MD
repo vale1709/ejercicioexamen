@@ -1,4 +1,4 @@
-## Paso 1: Redirigete a la carpeta del proyecto
+## Paso 1: Redirigete al directorio del proyecto
 
 ## Paso 2: Cree el ambiente virtual
 python -m venv myenv
